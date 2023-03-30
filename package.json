@@ -1,6 +1,6 @@
 {
   "name": "encrypt-quantasafe",
-  "version": "1.0.1",
+  "version": "1.0.12",
   "description": "this pacakage encrypts the data using key which is AES algorithm that i s quantum safe",
   "main": "index.js",
   "scripts": {
